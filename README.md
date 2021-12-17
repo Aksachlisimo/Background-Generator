@@ -1,6 +1,6 @@
 ## Background-Generator App
 
-### to clone this repository and get started ! , Follow these steps :
+### to clone this repository and start using this super App 😄 , Follow these steps :
 
 1. `git clone [repository link]`
 2. `git add .`
